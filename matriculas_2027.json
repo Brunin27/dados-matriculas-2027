@@ -4,8 +4,8 @@
     "status": "Vinculado ao Curso",
     "area": "Educação formal"
   },
-  "extraido_em": "2026-10-21T16:31:02-03:00",
-  "arquivo_origem": "matriculas_2027_20261021_163059_1.pdf",
+  "extraido_em": "2026-10-21T16:46:04-03:00",
+  "arquivo_origem": "matriculas_2027_20261021_164601_1.pdf",
   "escolas": [
     "CAAC",
     "CAAS",
@@ -17,12 +17,12 @@
     "EAS",
     "EAV"
   ],
-  "total_geral": 4981,
+  "total_geral": 4988,
   "totais_por_escola": {
-    "CAAC": 604,
+    "CAAC": 606,
     "CAAS": 727,
-    "CAG": 812,
-    "CAP": 581,
+    "CAG": 816,
+    "CAP": 582,
     "CAT": 478,
     "EAF": 359,
     "EAG": 231,
@@ -94,19 +94,143 @@
         "total": 677
       }
     },
+    "Ensino Fundamental": {
+      "series": {
+        "1º Ano": {
+          "CAAC": 54,
+          "CAAS": 52,
+          "CAG": 41,
+          "CAP": 38,
+          "CAT": 28,
+          "EAF": 31,
+          "EAG": 18,
+          "EAS": 64,
+          "EAV": 24,
+          "total": 350
+        },
+        "2º Ano": {
+          "CAAC": 67,
+          "CAAS": 47,
+          "CAG": 52,
+          "CAP": 37,
+          "CAT": 27,
+          "EAF": 28,
+          "EAG": 26,
+          "EAS": 60,
+          "EAV": 48,
+          "total": 392
+        },
+        "3º Ano": {
+          "CAAC": 66,
+          "CAAS": 57,
+          "CAG": 58,
+          "CAP": 38,
+          "CAT": 43,
+          "EAF": 48,
+          "EAG": 35,
+          "EAS": 66,
+          "EAV": 56,
+          "total": 467
+        },
+        "4º Ano": {
+          "CAAC": 73,
+          "CAAS": 53,
+          "CAG": 68,
+          "CAP": 55,
+          "CAT": 45,
+          "EAF": 48,
+          "EAG": 23,
+          "EAS": 77,
+          "EAV": 52,
+          "total": 494
+        },
+        "5º Ano": {
+          "CAAC": 41,
+          "CAAS": 65,
+          "CAG": 62,
+          "CAP": 45,
+          "CAT": 36,
+          "EAF": 45,
+          "EAG": 11,
+          "EAS": 63,
+          "EAV": 49,
+          "total": 417
+        },
+        "6º Ano": {
+          "CAAC": 50,
+          "CAAS": 61,
+          "CAG": 56,
+          "CAP": 53,
+          "CAT": 45,
+          "EAF": 33,
+          "EAG": 30,
+          "EAS": 61,
+          "EAV": 36,
+          "total": 425
+        },
+        "7º Ano": {
+          "CAAC": 46,
+          "CAAS": 71,
+          "CAG": 78,
+          "CAP": 43,
+          "CAT": 47,
+          "EAF": 21,
+          "EAG": 18,
+          "EAS": 72,
+          "EAV": 41,
+          "total": 437
+        },
+        "8º Ano": {
+          "CAAC": 43,
+          "CAAS": 54,
+          "CAG": 70,
+          "CAP": 51,
+          "CAT": 33,
+          "EAF": 14,
+          "EAG": 22,
+          "EAS": 52,
+          "EAV": 34,
+          "total": 373
+        },
+        "9º Ano": {
+          "CAAC": 44,
+          "CAAS": 57,
+          "CAG": 85,
+          "CAP": 39,
+          "CAT": 35,
+          "EAF": 10,
+          "EAG": 13,
+          "EAS": 57,
+          "EAV": 49,
+          "total": 389
+        }
+      },
+      "totais": {
+        "CAAC": 484,
+        "CAAS": 517,
+        "CAG": 570,
+        "CAP": 399,
+        "CAT": 339,
+        "EAF": 278,
+        "EAG": 196,
+        "EAS": 572,
+        "EAV": 389,
+        "total": 3744
+      }
+    },
     "Ensino Médio": {
       "series": {
         "1º Ano": {
           "CAAC": 19,
           "CAAS": 52,
-          "CAG": 51,
+          "CAG": 52,
           "CAP": 37,
           "CAT": 32,
           "EAF": 0,
           "EAG": 0,
           "EAS": 0,
           "EAV": 0,
-          "total": 191
+          "total": 192
         },
         "2º Ano": {
           "CAAC": 10,
@@ -123,14 +247,14 @@
         "3º Ano": {
           "CAAC": 0,
           "CAAS": 42,
-          "CAG": 60,
+          "CAG": 61,
           "CAP": 39,
           "CAT": 42,
           "EAF": 0,
           "EAG": 0,
           "EAS": 0,
           "EAV": 0,
-          "total": 183
+          "total": 184
         },
         "1º Ano - 1º Semestre": {
           "CAAC": 0,
@@ -208,138 +332,14 @@
       "totais": {
         "CAAC": 29,
         "CAAS": 149,
-        "CAG": 180,
+        "CAG": 182,
         "CAP": 108,
         "CAT": 99,
         "EAF": 0,
         "EAG": 0,
         "EAS": 0,
         "EAV": 0,
-        "total": 565
-      }
-    },
-    "Ensino Fundamental": {
-      "series": {
-        "1º Ano": {
-          "CAAC": 53,
-          "CAAS": 52,
-          "CAG": 41,
-          "CAP": 38,
-          "CAT": 28,
-          "EAF": 31,
-          "EAG": 18,
-          "EAS": 64,
-          "EAV": 24,
-          "total": 349
-        },
-        "2º Ano": {
-          "CAAC": 67,
-          "CAAS": 47,
-          "CAG": 51,
-          "CAP": 37,
-          "CAT": 27,
-          "EAF": 28,
-          "EAG": 26,
-          "EAS": 60,
-          "EAV": 48,
-          "total": 391
-        },
-        "3º Ano": {
-          "CAAC": 66,
-          "CAAS": 57,
-          "CAG": 58,
-          "CAP": 38,
-          "CAT": 43,
-          "EAF": 48,
-          "EAG": 35,
-          "EAS": 66,
-          "EAV": 56,
-          "total": 467
-        },
-        "4º Ano": {
-          "CAAC": 73,
-          "CAAS": 53,
-          "CAG": 68,
-          "CAP": 55,
-          "CAT": 45,
-          "EAF": 48,
-          "EAG": 23,
-          "EAS": 77,
-          "EAV": 52,
-          "total": 494
-        },
-        "5º Ano": {
-          "CAAC": 41,
-          "CAAS": 65,
-          "CAG": 61,
-          "CAP": 44,
-          "CAT": 36,
-          "EAF": 45,
-          "EAG": 11,
-          "EAS": 63,
-          "EAV": 49,
-          "total": 415
-        },
-        "6º Ano": {
-          "CAAC": 50,
-          "CAAS": 61,
-          "CAG": 56,
-          "CAP": 53,
-          "CAT": 45,
-          "EAF": 33,
-          "EAG": 30,
-          "EAS": 61,
-          "EAV": 36,
-          "total": 425
-        },
-        "7º Ano": {
-          "CAAC": 45,
-          "CAAS": 71,
-          "CAG": 78,
-          "CAP": 43,
-          "CAT": 47,
-          "EAF": 21,
-          "EAG": 18,
-          "EAS": 72,
-          "EAV": 41,
-          "total": 436
-        },
-        "8º Ano": {
-          "CAAC": 43,
-          "CAAS": 54,
-          "CAG": 70,
-          "CAP": 51,
-          "CAT": 33,
-          "EAF": 14,
-          "EAG": 22,
-          "EAS": 52,
-          "EAV": 34,
-          "total": 373
-        },
-        "9º Ano": {
-          "CAAC": 44,
-          "CAAS": 57,
-          "CAG": 85,
-          "CAP": 39,
-          "CAT": 35,
-          "EAF": 10,
-          "EAG": 13,
-          "EAS": 57,
-          "EAV": 49,
-          "total": 389
-        }
-      },
-      "totais": {
-        "CAAC": 482,
-        "CAAS": 517,
-        "CAG": 568,
-        "CAP": 398,
-        "CAT": 339,
-        "EAF": 278,
-        "EAG": 196,
-        "EAS": 572,
-        "EAV": 389,
-        "total": 3739
+        "total": 567
       }
     }
   }
