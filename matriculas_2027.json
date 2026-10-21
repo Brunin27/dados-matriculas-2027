@@ -4,8 +4,8 @@
     "status": "Vinculado ao Curso",
     "area": "Educação formal"
   },
-  "extraido_em": "2026-10-21T15:00:58-03:00",
-  "arquivo_origem": "matriculas_2027_20261021_150055_1.pdf",
+  "extraido_em": "2026-10-21T15:16:08-03:00",
+  "arquivo_origem": "matriculas_2027_20261021_151604_1.pdf",
   "escolas": [
     "CAAC",
     "CAAS",
@@ -17,11 +17,11 @@
     "EAS",
     "EAV"
   ],
-  "total_geral": 4958,
+  "total_geral": 4960,
   "totais_por_escola": {
-    "CAAC": 597,
+    "CAAC": 598,
     "CAAS": 727,
-    "CAG": 806,
+    "CAG": 807,
     "CAP": 581,
     "CAT": 473,
     "EAF": 356,
@@ -83,14 +83,14 @@
         "5º Ano": {
           "CAAC": 41,
           "CAAS": 65,
-          "CAG": 60,
+          "CAG": 61,
           "CAP": 44,
           "CAT": 36,
           "EAF": 45,
           "EAG": 11,
           "EAS": 63,
           "EAV": 49,
-          "total": 414
+          "total": 415
         },
         "6º Ano": {
           "CAAC": 50,
@@ -105,7 +105,7 @@
           "total": 423
         },
         "7º Ano": {
-          "CAAC": 43,
+          "CAAC": 44,
           "CAAS": 71,
           "CAG": 78,
           "CAP": 43,
@@ -114,7 +114,7 @@
           "EAG": 18,
           "EAS": 72,
           "EAV": 41,
-          "total": 431
+          "total": 432
         },
         "8º Ano": {
           "CAAC": 43,
@@ -142,16 +142,16 @@
         }
       },
       "totais": {
-        "CAAC": 476,
+        "CAAC": 477,
         "CAAS": 517,
-        "CAG": 563,
+        "CAG": 564,
         "CAP": 398,
         "CAT": 335,
         "EAF": 275,
         "EAG": 196,
         "EAS": 572,
         "EAV": 387,
-        "total": 3719
+        "total": 3721
       }
     },
     "Ensino Médio": {
